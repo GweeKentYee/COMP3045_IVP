@@ -1,0 +1,4 @@
+#data-table .dash-spreadsheet-container .dash-spreadsheet-inner input:not([type=radio]):not([type=checkbox]) {
+    text-align: center;
+    color: #ffffff;
+}
